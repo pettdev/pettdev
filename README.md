@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Peter!</h1>
 <h3 align="center">Web Developer specializing in JavaScript (React frontend + Node.js backend)</h3>
 
+- 🎨 Former Graphic Designer → 💻 **Self-Taught Developer**
+- ✨ Transforming pixels into functional code
 - 🌱 I’m currently learning **NodeJS, TypeScript**
-
 - ⚡ Fun fact **I happen to be the real Spider-Man!**
 
 <h3 align="left">Connect with me:</h3>
