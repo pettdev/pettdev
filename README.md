@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Peter!</h1>
+<h1 align="center">Hi, I'm Peter!</h1>
 <h3 align="center">Web Developer specializing in JavaScript (React frontend + Node.js backend)</h3>
 
 - 🎨 Former Graphic Designer → 💻 **Self-Taught Developer**
